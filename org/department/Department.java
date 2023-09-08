@@ -10,5 +10,3 @@ public class Department extends College {
 			
 	}
 	}
-
-
